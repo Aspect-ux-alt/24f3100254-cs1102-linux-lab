@@ -1,7 +1,7 @@
 # CS1102 Linux Lab Repository
 
 ## About Me
-- Name: <Your Name>
-- Roll Number: <Your Roll Number>
-- University: <Your University Name>
+- Name: Soham Bose
+- Roll Number: 24f3100254
+- University: IITM
 - Interests: Linux, Open Source, Programming
